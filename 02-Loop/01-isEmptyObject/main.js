@@ -11,7 +11,7 @@ function isEmptyObj(obj) {
     return isEmpty;
 }
 
-// const a ={
-//     name: 'cc',
-//     age: 15,
-// };
+const a ={
+    name: 'cc',
+    age: 15,
+};
